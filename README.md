@@ -1,4 +1,5 @@
 # Port-scan
-## Author: Nguyen Trung Kien
+## Author: Anh Chang Mu Trang
 ### Descriptions:
-- Scan port
+- Scan target or multi targets which my script!
+- 
