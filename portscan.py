@@ -28,7 +28,7 @@ def scan_port(ipadderss, port):
 	except:
 		pass
 
-		#acmt
+		#kien
 #convert_ip = checkip(ipadderss)
 #port_num = input('Enter Number of port u want to scan:')
 if __name__ == "__main__":
